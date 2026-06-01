@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Profile Banner" width="100%">
-</p>
-
 <h2 align="center">Hi, I'm Gurshan</h2>
 <p align="center">A passionate Developer making tools for Games and backend systems.</p>
 
