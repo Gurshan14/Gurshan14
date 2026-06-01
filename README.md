@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Gurshan</h2>
-<p align="center">A passionate Developer making tools for Games and backend systems.</p>
+<p align="center">A passionate Developer making tools for Games, making things for backend systems and much more.</p>
 
 ---
 
