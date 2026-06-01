@@ -62,14 +62,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurshan14&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gurshan14&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub Stats" width="48%" />
   </a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Gurshan14&color=blue&style=flat-square" alt="Visitors" />
 </p>
